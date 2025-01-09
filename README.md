@@ -22,12 +22,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  
-  <!-- Align the LinkedIn badge to the right -->
-  <a href="https://www.linkedin.com/in/eugenio-sotelo/" target="_blank" style="float: right;">
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eugenio-sotelo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
-  <!-- Move visitors badge up -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DriftLoki.DriftLoki&" style="display: inline-block; margin-top: 10px;" />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DriftLoki.DriftLoki&"  />
+</div>
+
+###
